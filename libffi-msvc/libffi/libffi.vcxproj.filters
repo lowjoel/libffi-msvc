@@ -46,5 +46,8 @@
     <CustomBuild Include="..\..\libffi\src\x86\win32.S">
       <Filter>Source Files</Filter>
     </CustomBuild>
+    <CustomBuild Include="..\..\libffi\src\x86\win64.S">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
   </ItemGroup>
 </Project>
