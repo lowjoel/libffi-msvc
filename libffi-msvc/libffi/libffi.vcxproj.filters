@@ -24,6 +24,9 @@
     <ClInclude Include="fficonfig.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\libffi\src\x86\ffitarget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\libffi\src\closures.c">
